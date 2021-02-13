@@ -1,2 +1,11 @@
 it is also test file 
 add lines
+addded another new line . Git revert and reset 
+   How to revert merge commit 
+   Jenkins permission to particular user to run job
+   Pipeline script flow 
+   SNS
+   Git branch and git tag 
+   GCP And Azure
+   Branching strategy
+   Shell/Python Scripting 
